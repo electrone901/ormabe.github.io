@@ -452,10 +452,10 @@ b i:last-child {
 
 /* mouse effect */
 
-.mouse {
+/*.mouse {
     position: absolute;
     width: 22px;
-    height: 42px;
+    height: 22px;
     bottom: 40px;
     left: 50%;
     margin-left: -12px;
@@ -474,7 +474,7 @@ b i:last-child {
     background: #888;
     -webkit-animation: finger 2s infinite;
     animation: finger 2s infinite;
-}
+}*/
 
 @-webkit-keyframes intro {
     0% {
